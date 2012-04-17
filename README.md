@@ -22,7 +22,7 @@ The JavaScript Show is a JavaScript podcast featuring news and discussion about 
 **SitePoint Podcast** http://itunes.apple.com/us/podcast/sitepoint-podcast/id296180681  
 News, opinion, and fresh thinking for web developers and designers. The official podcast of sitepoint.com
 
-**The Changelog** http://thechangelog.com/
+**The Changelog** http://thechangelog.com/  
 The Changelog is a blog & weekly podcast that covers what's fresh and new in the world of Open Source. Open Source moves fast. Keep up.
 
 
