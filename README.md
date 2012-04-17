@@ -25,6 +25,6 @@ News, opinion, and fresh thinking for web developers and designers. The official
 **The Changelog** http://thechangelog.com/  
 The Changelog is a blog & weekly podcast that covers what's fresh and new in the world of Open Source. Open Source moves fast. Keep up.
 
-**Pragmatic Podcasts** http://pragprog.com/podcasts
+**Pragmatic Podcasts** http://pragprog.com/podcasts  
 Pragmatic interviews, news, techniques and more from the Pragmatic Bookshelf.
 
