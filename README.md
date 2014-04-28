@@ -28,3 +28,11 @@ The Changelog is a blog & weekly podcast that covers what's fresh and new in the
 **Pragmatic Podcasts** http://pragprog.com/podcasts  
 Pragmatic interviews, news, techniques and more from the Pragmatic Bookshelf.
 
+**The Web Ahead** http://5by5.tv/webahead
+A weekly podcast about changing technologies and the future of the web, discussing HTML5, mobile, responsive design, iOS, Android, and more. Hosted by Jen Simmons.
+
+**CSS-Tricks Screencasts** http://css-tricks.com/video-screencasts/
+CSS-Tricks Screencasts is focused on showing you tips, tricks, techniques about web design.
+
+**Web Dev Break** http://www.webdevbreak.com
+Hosted by Eliot Sykes, Web Dev Break is a weekly video podcast to guide web developers through useful tools, tips, and techniques. Each episode is only a few minutes long and is made to save you time, expand your skills, and keep you up to speed on the latest developments in HTML5, CSS3, and JavaScript.
