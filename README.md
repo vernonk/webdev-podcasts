@@ -9,7 +9,7 @@ _Podcast descriptions below pulled from iTunes_
 **Apply Filters**
 http://applyfilters.fm
 
-*The Big Web Show*
+**The Big Web Show**
 http://5by5.tv/bigwebshow
 
 **Boagworld**
@@ -51,10 +51,10 @@ http://responsivedesign.is/podcast
 **The Web Ahead** http://5by5.tv/webahead
 A weekly podcast about changing technologies and the future of the web, discussing HTML5, mobile, responsive design, iOS, Android, and more. Hosted by Jen Simmons.
 
-*The Web Platform Podcast*
+**The Web Platform Podcast**
 http://thewebplatform.libsyn.com
 
-*React Podcast*
+**React Podcast**
 http://reactpodcast.com
 
 **ShopTalk** http://shoptalkshow.com/  
@@ -63,7 +63,7 @@ A live web design and development podcast by Chris Coyier and Dave Rupert.
 **SitePoint Podcast** http://itunes.apple.com/us/podcast/sitepoint-podcast/id296180681  
 News, opinion, and fresh thinking for web developers and designers. The official podcast of sitepoint.com
 
-*The Web Ahead*
+**The Web Ahead**
 http://5by5.tv/webahead
 
 **Web Dev Break** http://www.webdevbreak.com
