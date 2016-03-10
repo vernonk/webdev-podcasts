@@ -1,10 +1,6 @@
 # Web Development Podcasts
 
-I love listening to podcasts on web development to and from work and was talking to a friend at work who said, "You should put that on GitHub."  So, here it is. Hope to make this a good resource for people to go to when looking for quality podcasts.
-
-If you have a podcast that you listen to that you think should be included, open an issue in the issue tracker.
-
-_Podcast descriptions below pulled from iTunes_  
+If you have a podcast that you listen to that you think should be included, open a Pull Request or Issue.
 
 **Apply Filters**
 http://applyfilters.fm
@@ -17,6 +13,9 @@ https://boagworld.com
 
 **The Changelog** http://thechangelog.com/  
 The Changelog is a blog & weekly podcast that covers what's fresh and new in the world of Open Source. Open Source moves fast. Keep up.
+
+**CodePen Radio** https://blog.codepen.io/radio/
+A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 
 **CTRL+CLICK CAST**
 http://ctrlclickcast.com
@@ -66,5 +65,3 @@ News, opinion, and fresh thinking for web developers and designers. The official
 **The Web Ahead**
 http://5by5.tv/webahead
 
-**Web Dev Break** http://www.webdevbreak.com
-Hosted by Eliot Sykes, Web Dev Break is a weekly video podcast to guide web developers through useful tools, tips, and techniques. Each episode is only a few minutes long and is made to save you time, expand your skills, and keep you up to speed on the latest developments in HTML5, CSS3, and JavaScript.
