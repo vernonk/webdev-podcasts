@@ -42,7 +42,7 @@ If you have a podcast that you listen to that you think should be included, open
 <br>http://hanselminutes.com/
 
 **Herding Code** http://herdingcode.com/
-Herding Code is a weekly podcast with K. Scott Allen, Kevin Dente, Scott Koon, and Jon Galloway.
+<br>Herding Code is a weekly podcast with K. Scott Allen, Kevin Dente, Scott Koon, and Jon Galloway.
 
 **JavaScript Jabber** http://javascriptjabber.com/
 <br>A technical discussion of JavaScript related topics. Things like Node.js, Web Frameworks, JSON, CoffeeScript, Event and Object models and much more.
