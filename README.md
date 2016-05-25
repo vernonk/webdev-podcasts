@@ -20,6 +20,9 @@ If you have a podcast that you listen to that you think should be included, open
 **The Changelog** http://thechangelog.com/
 <br>The Changelog is a blog & weekly podcast that covers what's fresh and new in the world of Open Source. Open Source moves fast. Keep up.
 
+**CodeNewbie** http://www.codenewbie.org/podcast
+<br>Stories from people on their coding journey.
+
 **CodePen Radio** https://blog.codepen.io/radio/
 <br>A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 
@@ -38,11 +41,17 @@ If you have a podcast that you listen to that you think should be included, open
 **Hanselminutes** 
 <br>http://hanselminutes.com/
 
+**Herding Code** http://herdingcode.com/
+Herding Code is a weekly podcast with K. Scott Allen, Kevin Dente, Scott Koon, and Jon Galloway.
+
 **JavaScript Jabber** http://javascriptjabber.com/
 <br>A technical discussion of JavaScript related topics. Things like Node.js, Web Frameworks, JSON, CoffeeScript, Event and Object models and much more.
 
 **JavaScript Air**
 <br>http://javascriptair.com/
+
+**NodeUp** http://nodeup.com/
+<br>A podcast about Node.js
 
 **The Non-Breaking Space Podcast** http://nonbreakingspace.tv/
 <br>Non Breaking Space is a show where we'll seek out the best, brightest and smartest people on the web and talk to them about how and why they do what they do. Your hosts are Christopher Schmitt and Dave McFarland, two web designers, authors and trainers who have a passion for sharing knowledge about the web.
