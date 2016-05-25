@@ -26,11 +26,11 @@ If you have a podcast that you listen to that you think should be included, open
 **CodePen Radio** https://blog.codepen.io/radio/
 <br>A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 
-**CTRL+CLICK CAST**
-<br>http://ctrlclickcast.com
-
 **CSS-Tricks Screencasts** http://css-tricks.com/video-screencasts/
 <br>CSS-Tricks Screencasts is focused on showing you tips, tricks, techniques about web design.
+
+**CTRL+CLICK CAST**
+<br>http://ctrlclickcast.com
 
 **Full Stack Radio**
 <br>http://www.fullstackradio.com
@@ -44,11 +44,11 @@ If you have a podcast that you listen to that you think should be included, open
 **Herding Code** http://herdingcode.com/
 <br>Herding Code is a weekly podcast with K. Scott Allen, Kevin Dente, Scott Koon, and Jon Galloway.
 
-**JavaScript Jabber** http://javascriptjabber.com/
-<br>A technical discussion of JavaScript related topics. Things like Node.js, Web Frameworks, JSON, CoffeeScript, Event and Object models and much more.
-
 **JavaScript Air**
 <br>http://javascriptair.com/
+
+**JavaScript Jabber** http://javascriptjabber.com/
+<br>A technical discussion of JavaScript related topics. Things like Node.js, Web Frameworks, JSON, CoffeeScript, Event and Object models and much more.
 
 **NodeUp** http://nodeup.com/
 <br>A podcast about Node.js
@@ -65,20 +65,11 @@ If you have a podcast that you listen to that you think should be included, open
 **Product People**
 <br>http://productpeople.tv
 
-**Responsive Design Podcast**
-<br>http://responsivedesign.is/podcast
-
-**Style Guide Podcast** http://styleguides.io/podcast/
-<br>A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
-
-**The Web Ahead** http://5by5.tv/webahead
-<br>A weekly podcast about changing technologies and the future of the web, discussing HTML5, mobile, responsive design, iOS, Android, and more. Hosted by Jen Simmons.
-
-**The Web Platform Podcast**
-<br>http://thewebplatform.libsyn.com
-
 **React Podcast**
 <br>http://reactpodcast.com
+
+**Responsive Design Podcast**
+<br>http://responsivedesign.is/podcast
 
 **ShopTalk** http://shoptalkshow.com/
 <br>A live web design and development podcast by Chris Coyier and Dave Rupert.
@@ -86,9 +77,14 @@ If you have a podcast that you listen to that you think should be included, open
 **SitePoint Podcast** http://itunes.apple.com/us/podcast/sitepoint-podcast/id296180681
 <br>News, opinion, and fresh thinking for web developers and designers. The official podcast of sitepoint.com
 
+**Style Guide Podcast** http://styleguides.io/podcast/
+<br>A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
+
 **Thoughtworks** https://itunes.apple.com/us/podcast/thoughtworks/id881136697?mt=2
 <br>A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 
-**The Web Ahead**
-<br>http://5by5.tv/webahead
+**The Web Ahead** http://5by5.tv/webahead
+<br>A weekly podcast about changing technologies and the future of the web, discussing HTML5, mobile, responsive design, iOS, Android, and more. Hosted by Jen Simmons.
 
+**The Web Platform Podcast**
+<br>http://thewebplatform.libsyn.com
