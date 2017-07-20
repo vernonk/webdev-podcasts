@@ -44,6 +44,9 @@ If you have a podcast that you listen to that you think should be included, open
 **Herding Code** http://herdingcode.com/
 <br>Herding Code is a weekly podcast with K. Scott Allen, Kevin Dente, Scott Koon, and Jon Galloway.
 
+**JS Party** https://changelog.com/jsparty
+<br>A community celebration of JavaScript and the web. Hosts: Mikeal Rogers, Rachel White, and Alex Sexton.
+
 **JavaScript Air**
 <br>http://javascriptair.com/
 
