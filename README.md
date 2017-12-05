@@ -87,4 +87,5 @@ If you have a podcast that you listen to that you think should be included, open
 <br>A weekly podcast about changing technologies and the future of the web, discussing HTML5, mobile, responsive design, iOS, Android, and more. Hosted by Jen Simmons.
 
 **The Web Platform Podcast**
-<br>http://thewebplatform.libsyn.com
+<br>A weekly show that dives deep into all things web from the developers building the platform today.
+<br>https://thewebplatformpodcast.com/
