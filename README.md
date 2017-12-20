@@ -83,6 +83,9 @@ If you have a podcast that you listen to that you think should be included, open
 **Style Guide Podcast** http://styleguides.io/podcast/
 <br>A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
 
+**Syntax** https://syntax.fm
+<br>A new podcast hosted by Wes Bos and Scott Tolinski.
+
 **Thoughtworks** https://itunes.apple.com/us/podcast/thoughtworks/id881136697?mt=2
 <br>A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 
