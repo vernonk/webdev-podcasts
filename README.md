@@ -32,6 +32,10 @@ If you have a podcast that you listen to that you think should be included, open
 **CTRL+CLICK CAST**
 <br>http://ctrlclickcast.com
 
+**Front End Happy Hour**
+<br>http://frontendhappyhour.com/
+<br>A conversation of Web Development topics by seniors from big companies (Netflix, LinkedIn, Windows, Evernote, etc.).
+
 **Full Stack Radio**
 <br>http://www.fullstackradio.com
 
