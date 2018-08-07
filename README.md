@@ -31,6 +31,10 @@ If you have a podcast that you listen to that you think should be included, open
 <br>https://blog.codepen.io/radio/
 <br>A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 
+**CodingBlocks**
+<br>https://www.codingblocks.net/category/podcast/
+<br>Coding Blocks is the podcast and website for learning how to become a better software developer.
+
 **CSS-Tricks Screencasts**
 <br>http://css-tricks.com/video-screencasts/
 <br>CSS-Tricks Screencasts is focused on showing you tips, tricks, techniques about web design.
