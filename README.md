@@ -70,6 +70,10 @@ If you have a podcast that you listen to that you think should be included, open
 <br>http://frontendhappyhour.com/
 <br>A conversation of Web Development topics by seniors from big companies (Netflix, LinkedIn, Windows, Evernote, etc.).
 
+**Front-End Fire**
+<br>https://podcasts.apple.com/us/podcast/front-end-fire/id1700169000
+<br>A weekly podcast hosted by TJ VanToll, Paige Niedringhaus, Jack Herrington. The way to stay up to date with the latest and greatest in the front-end world.
+
 **Future of Coding**
 <br>https://futureofcoding.org/
 <br>Conversations with the people shaping the future of computing, hosted by Jimmy Miller and Ivan Reese.
